@@ -1,0 +1,457 @@
+[
+  {
+    "id": "cert_ai_prompting_everyone_dlai_2026_05",
+    "name": "AI Prompting for Everyone",
+    "issuer": [
+      "DeepLearning.AI"
+    ],
+    "issued": "2026-05",
+    "valid_until": null,
+    "credential_id": "aba4dd9f-6bde-40f7-abe5-b0ec456a624d",
+    "skills": [
+      "AI",
+      "Prompting"
+    ],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/AiPromptingForEveryone.png"
+  },
+  {
+    "id": "cert_istqb_ctgenai_isqi_2026_04",
+    "name": "ISTQB Certified Tester, Testing with Generative AI",
+    "issuer": [
+      "iSQI GmbH"
+    ],
+    "issued": "2026-04",
+    "valid_until": null,
+    "credential_id": "26-CTGenAI-275681-01",
+    "skills": [
+      "Testing AI",
+      "Generative AI"
+    ],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/IstqbTestingWithGenerativeAi.pdf"
+  },
+  {
+    "id": "cert_agentic_ai_dev_sec_coursera_2026_03",
+    "name": "Agentic AI Development & Security",
+    "issuer": [
+      "Coursera"
+    ],
+    "issued": "2026-03",
+    "valid_until": null,
+    "credential_id": "394ZZ0O50NP5",
+    "skills": [
+      "AI Agents",
+      "Security"
+    ],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/AgenticAiDevelopmentAndSecurity.pdf"
+  },
+  {
+    "id": "real_world_ai_2026_01",
+    "name": "Real-World AI for Everyone",
+    "issuer": [
+      "Advancing Women in Tech (AWIT)"
+    ],
+    "issued": "2026-03",
+    "valid_until": null,
+    "credential_id": "JK4BR5GPNG6V",
+    "skills": [
+      "AI",
+      "Claude"
+    ],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/RealWorldAiForEveryone.pdf"
+  },
+  {
+    "id": "ai_leader__2025_10",
+    "name": "Generative AI Leader",
+    "issuer": [
+      "Google"
+    ],
+    "issued": "2025-11",
+    "valid_until": null,
+    "credential_id": "XUIAJ9PJUKPC",
+    "skills": [
+      "Testing AI"
+    ],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/GenerativeAiLeader.pdf"
+  },
+  {
+    "id": "cert_agentic_ai_dlai_2025_10",
+    "name": "Agentic AI",
+    "issuer": [
+      "DeepLearning.AI"
+    ],
+    "issued": "2025-10",
+    "valid_until": null,
+    "credential_id": "809060ab-6777-497d-901b-a37ef648810a",
+    "skills": [
+      "Artificial Intelligence (AI)",
+      "AI Agents"
+    ],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/AgenticAi.png"
+  },
+  {
+    "id": "cert_genai_sw_dev_spec_dlai_2025_03",
+    "name": "Generative AI for Software Development Specialization",
+    "issuer": [
+      "DeepLearning.AI"
+    ],
+    "issued": "2025-03",
+    "valid_until": null,
+    "credential_id": "99F5T9558CQQ",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/GenerativeAiForSoftwareDevelopment.pdf"
+  },
+  {
+    "id": "cert_supervised_ml_dlai_stanford_2025_01",
+    "name": "Supervised Machine Learning: Regression and Classification",
+    "issuer": [
+      "DeepLearning.AI",
+      "Stanford University"
+    ],
+    "issued": "2025-01",
+    "valid_until": null,
+    "credential_id": "B8TF35N5KYJG",
+    "skills": [
+      "Machine Learning"
+    ],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/SupervisedMachineLearning.pdf"
+  },
+  {
+    "id": "cert_intro_data_engineering_dlai_aws_2024_10",
+    "name": "Introduction to Data Engineering",
+    "issuer": [
+      "DeepLearning.AI",
+      "Amazon Web Services"
+    ],
+    "issued": "2024-10",
+    "valid_until": null,
+    "credential_id": "AZITYEYK8WQO",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/IntroductionToDataEngineering.pdf"
+  },
+  {
+    "id": "cert_chatgpt_free_tools_vanderbilt_2024_09",
+    "name": "ChatGPT: Master Free AI Tools to Supercharge Productivity Specialization",
+    "issuer": [
+      "Vanderbilt University"
+    ],
+    "issued": "2024-09",
+    "valid_until": null,
+    "credential_id": "XUE8107TDGFR",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/ChatGptMasterFreeAiTools.pdf"
+  },
+  {
+    "id": "cert_genai_automation_vanderbilt_2024_06",
+    "name": "Generative AI Automation Specialization",
+    "issuer": [
+      "Vanderbilt University"
+    ],
+    "issued": "2024-06",
+    "valid_until": null,
+    "credential_id": "D4D2FXF8FDHM",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/GenerativeAiAutomation.pdf"
+  },
+  {
+    "id": "cert_applied_chatgpt_cybersecurity_infosec_2024_05",
+    "name": "Applied ChatGPT for Cybersecurity",
+    "issuer": [
+      "Infosec"
+    ],
+    "issued": "2024-05",
+    "valid_until": null,
+    "credential_id": "U7EJ2ETSZCCF",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/AppliedChatGptForCybersecurity.pdf"
+  },
+  {
+    "id": "cert_genai_assistants_vanderbilt_2024_05",
+    "name": "Generative AI Assistants",
+    "issuer": [
+      "Vanderbilt University"
+    ],
+    "issued": "2024-05",
+    "valid_until": null,
+    "credential_id": "Y8GLVLP88XU5",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/GenerativeAiAssistants.pdf"
+  },
+  {
+    "id": "cert_trustworthy_genai_vanderbilt_2024_05",
+    "name": "Trustworthy Generative AI",
+    "issuer": [
+      "Vanderbilt University"
+    ],
+    "issued": "2024-05",
+    "valid_until": null,
+    "credential_id": "N2DMBAXQMFQB",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/TrustworthyGenerativeAi.pdf"
+  },
+  {
+    "id": "cert_genai_for_everyone_dlai_2023_11",
+    "name": "Generative AI for Everyone",
+    "issuer": [
+      "DeepLearning.AI"
+    ],
+    "issued": "2023-11",
+    "valid_until": null,
+    "credential_id": "QHY97MTQE99V",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/GenerativeAiForEveryone.pdf"
+  },
+  {
+    "id": "cert_google_cybersecurity_spec_2023_10",
+    "name": "Google Cybersecurity Specialization",
+    "issuer": [
+      "Google"
+    ],
+    "issued": "2023-10",
+    "valid_until": null,
+    "credential_id": "QT22BDNDHAXX",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/GoogleCybersecurity.pdf"
+  },
+  {
+    "id": "cert_ai_on_ms_azure_ms_2023_07",
+    "name": "Artificial Intelligence on Microsoft Azure",
+    "issuer": [
+      "Microsoft"
+    ],
+    "issued": "2023-07",
+    "valid_until": null,
+    "credential_id": "D7F74ZR2FP4W",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/ArtificialIntelligenceOnMicrosoftAzure.pdf"
+  },
+  {
+    "id": "cert_ux_design_google_2023_04",
+    "name": "Foundations of User Experience (UX) Design",
+    "issuer": [
+      "Google"
+    ],
+    "issued": "2023-04",
+    "valid_until": null,
+    "credential_id": "MUCY46KFUEWK",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/FoundationsOfUserExperienceDesign.pdf"
+  },
+  {
+    "id": "cert_swift5_learnquest_2023_04",
+    "name": "Introduction to Programming in Swift 5",
+    "issuer": [
+      "LearnQuest"
+    ],
+    "issued": "2023-04",
+    "valid_until": null,
+    "credential_id": "Z5HVEQ9SSPGA",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/IntroductionToProgrammingInSwift5.pdf"
+  },
+  {
+    "id": "cert_data_science_ethics_umich_2023_03",
+    "name": "Data Science Ethics",
+    "issuer": [
+      "University of Michigan"
+    ],
+    "issued": "2023-03",
+    "valid_until": null,
+    "credential_id": "B4HDQ73JFZWK",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/DataScienceEthics.pdf"
+  },
+  {
+    "id": "cert_ai_for_everyone_dlai_2022_12",
+    "name": "AI For Everyone",
+    "issuer": [
+      "DeepLearning.AI"
+    ],
+    "issued": "2022-12",
+    "valid_until": null,
+    "credential_id": "TA9A4JCSS5W7",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/AiForEveryone.pdf"
+  },
+  {
+    "id": "cert_data_scientists_toolbox_jhu_2020_10",
+    "name": "The Data Scientist’s Toolbox",
+    "issuer": [
+      "John Hopkins University"
+    ],
+    "issued": "2020-10",
+    "valid_until": null,
+    "credential_id": "LPX5XB855E6N",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/TheDataScientistsToolbox.pdf"
+  },
+  {
+    "id": "cert_psm1_scrumorg_2023_05",
+    "name": "Professional Scrum Master I (PSM I)",
+    "issuer": [
+      "Scrum.org"
+    ],
+    "issued": "2020-05",
+    "valid_until": null,
+    "credential_id": "530637",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/ProfessionalScrumMasterI.pdf"
+  },
+  {
+    "id": "cert_istqb_adv_security_isqi_2019_03",
+    "name": "ISTQB Advanced Level Security Tester",
+    "issuer": [
+      "iSQI Group"
+    ],
+    "issued": "2019-03",
+    "valid_until": null,
+    "credential_id": "19-CTAL-SEC-154921-06",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/IstqbAdvancedLevelSecurityTester.pdf"
+  },
+  {
+    "id": "cert_istqb_adv_tta_gtb_2019_02",
+    "name": "ISTQB Advanced Level Technical Test Analyst",
+    "issuer": [
+      "German Testing Board e.V."
+    ],
+    "issued": "2019-02",
+    "valid_until": null,
+    "credential_id": "19-CTAL-TTA-153007-01",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/IstqbAdvancedLevelTechnicalTestAnalyst.pdf"
+  },
+  {
+    "id": "cert_ceh_eccouncil_2017_11",
+    "name": "Certified Ethical Hacker (CEH)",
+    "issuer": [
+      "EC-Council"
+    ],
+    "issued": "2017-11",
+    "valid_until": "2020-11",
+    "credential_id": "ECC49733887109",
+    "skills": [
+      "Ethical Hacking"
+    ],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/CertifiedEthicalHacker.pdf"
+  },
+  {
+    "id": "cert_usable_security_umd",
+    "name": "Usable Security",
+    "issuer": [
+      "University of Maryland"
+    ],
+    "issued": "2016-05",
+    "valid_until": null,
+    "credential_id": "E9YAAQYFT6TE",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/UsableSecurity.pdf"
+  },
+  {
+    "id": "cert_cpsse_isseco_2014_11",
+    "name": "Certified Professional for Secure Software Engineering",
+    "issuer": [
+      "ISSECO"
+    ],
+    "issued": "2014-11",
+    "valid_until": "2019-11",
+    "credential_id": "14-CPSSEFL-66188-22",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/CertifiedProfessionalForSecureSoftwareEngineering.pdf"
+  },
+  {
+    "id": "cert_cmap_fl_isqi_2014_05",
+    "name": "CMAP Mobile App Testing - Foundation Level",
+    "issuer": [
+      "iSQI Group"
+    ],
+    "issued": "2014-05",
+    "valid_until": null,
+    "credential_id": "14-CMAPFL-0109-iSQI",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/CmapMobileAppTestingFoundationLevel.pdf"
+  },
+  {
+    "id": "cert_istqb_ctfl_isqi_2013_10",
+    "name": "ISTQB Certified Tester - Foundation Level",
+    "issuer": [
+      "iSQI Group"
+    ],
+    "issued": "2013-08",
+    "valid_until": null,
+    "credential_id": "13-CTFL-35622-DE",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/IstqbCertifiedTesterFoundationLevel.pdf"
+  },
+  {
+    "id": "cert_tmap_next_exin_2013_07",
+    "name": "TMAP NEXT Test Engineer",
+    "issuer": [
+      "EXIN"
+    ],
+    "issued": "2013-07",
+    "valid_until": null,
+    "credential_id": "4791864.1230694",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/TmapNextTestEngineer.pdf"
+  },
+  {
+    "id": "cert_hibernate_oio_2005_10",
+    "name": "Hibernate (Seminar)",
+    "issuer": [
+      "Orientation in Objects GmbH"
+    ],
+    "issued": "2005-10",
+    "valid_until": null,
+    "credential_id": "none",
+    "skills": [
+      "Hibernate",
+      "Java"
+    ],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/HibernateSeminar.pdf"
+  },
+  {
+    "id": "cert_linux_systembetreuung_ils_2003_02",
+    "name": "Linux-Systembetreuung",
+    "issuer": [
+      "ILS Institut für Lernsysteme"
+    ],
+    "issued": "2003-09",
+    "valid_until": null,
+    "credential_id": "none",
+    "skills": [],
+    "category": null,
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/LinuxSystembetreuung.pdf"
+  }
+]
