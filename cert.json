@@ -414,10 +414,13 @@
     "issued": "2023-11",
     "valid_until": null,
     "credential_id": "C0F54D-D49D6A",
-    "skills": [],
+    "skills": [
+      "Azure AI",
+      "Machine Learning"
+    ],
     "category": null,
     "cv": "always",
-    "verify_url": null
+    "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/Microsoft_Azure_AI.pdf"
   },
   {
     "id": "cert_google_cybersecurity_spec_2023_10",
@@ -430,7 +433,7 @@
     "credential_id": "QT22BDNDHAXX",
     "skills": [],
     "category": null,
-    "cv": "optional",
+    "cv": "always",
     "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/GoogleCybersecurity.pdf"
   },
   {
@@ -528,7 +531,7 @@
     "credential_id": "530637",
     "skills": [],
     "category": null,
-    "cv": "always",
+    "cv": "optional",
     "verify_url": "https://raw.githubusercontent.com/t0nigansel/certificates/main/ProfessionalScrumMasterI.pdf"
   },
   {

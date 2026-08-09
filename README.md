@@ -37,7 +37,7 @@ Die maschinenlesbare Fassung liegt in [cert.json](cert.json).
 | 24 | 2024-05 | OpenAI GPTs: Creating Your Own Custom AI Assistants | Vanderbilt University | — | XTNHYXXJN77N | — |
 | 25 | 2024-05 | Trustworthy Generative AI | Vanderbilt University | — | N2DMBAXQMFQB | [PDF](TrustworthyGenerativeAi.pdf) |
 | 26 | 2023-11 | Generative AI for Everyone | DeepLearning.AI | — | QHY97MTQE99V | [PDF](GenerativeAiForEveryone.pdf) |
-| 27 | 2023-11 | Microsoft Certified: Azure AI Fundamentals (AI-900) | Microsoft | — | C0F54D-D49D6A | — |
+| 27 | 2023-11 | Microsoft Certified: Azure AI Fundamentals (AI-900) | Microsoft | — | [C0F54D-D49D6A](https://learn.microsoft.com/api/credentials/share/de-de/47013621/2A7FEFF4E5ECFCAD?sharingId=D6D0A7ABE0EF55CB) | [PDF](Microsoft_Azure_AI.pdf) |
 | 28 | 2023-10 | Google Cybersecurity (Specialization) | Google | — | QT22BDNDHAXX | [PDF](GoogleCybersecurity.pdf) |
 | 29 | 2023-07 | Artificial Intelligence on Microsoft Azure | Microsoft | — | D7F74ZR2FP4W | [PDF](ArtificialIntelligenceOnMicrosoftAzure.pdf) |
 | 30 | 2023-04 | Foundations of User Experience (UX) Design | Google | — | MUCY46KFUEWK | [PDF](FoundationsOfUserExperienceDesign.pdf) |
